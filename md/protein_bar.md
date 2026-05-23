@@ -1,7 +1,7 @@
 title: Protein Bars
 date: 16/05/2026
 
-## Protein Bars
+## No Bake Protein Bars
 
 ### Ingredients
 
@@ -15,3 +15,13 @@ date: 16/05/2026
 
 1. Combine all ingredients and refrigerate/freeze.
 
+---
+
+### Nutrition Info
+
+| Servings: _12_ | Quantity per Serving |
+|-------------|----------------------|
+| Energy      | 714 kJ               |
+| Protein     | 12.2 g               |
+| Carbs       | 13.1 g               |
+| Fat         | 7.1 g                |
