@@ -5,11 +5,11 @@ date: 16/05/2026
 
 ### Ingredients
 
-* 2 cups oats
-* 4 scoops (120g) protein powder
-* 1/2 cup (130g) peanut butter
-* 1/2 cup milk
-* 2 tbsp golden syrup
+* _2_ cups oats
+* _4_ scoops (_120_ g) protein powder
+* _1/2_ cup (_130_ g) peanut butter
+* _1/2_ cup milk
+* _2_ tbsp golden syrup
 
 ### Directions
 

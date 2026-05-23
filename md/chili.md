@@ -7,23 +7,23 @@ date: 16/05/2026
 
 #### Main ingredients
 
-* <span class="amount">1</span> onion
-* <span class="amount">4</span> garlic cloves
-* <span class="amount">300</span>g beef mince
-* <span class="amount">1</span> cup chicken stock
-* <span class="amount">1</span> tbsp tomato paste
-* <span class="amount">400</span>g tomato can 
-* <span class="amount">400</span>g black beans can
-* <span class="amount">1</span> bay leaf
+* _1_ onion
+* _4_ garlic cloves
+* _300_ g beef mince
+* _1_ cup chicken stock
+* _1_ tbsp tomato paste
+* _400_ g tomato can 
+* _400_ g black beans can
+* _1_ bay leaf
 
 #### Spice mix
 
-* <span class="amount">2</span> tsp sweet paprika
-* <span class="amount">2</span> tsp smoky paprika
-* <span class="amount">1.5</span> tsp cumin
-* <span class="amount">0.5</span> tsp oregano
-* <span class="amount">0.5</span> tsp salt
-* <span class="amount">0.25</span> tsp chili
+* _2_ tsp sweet paprika
+* _2_ tsp smoky paprika
+* _1 1/2_ tsp cumin
+* _1/2_ tsp oregano
+* _1/2_ tsp salt
+* _1/4_ tsp chili
 
 ### Directions
 

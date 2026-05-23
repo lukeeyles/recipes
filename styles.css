@@ -57,3 +57,7 @@ ol, ul {
 ul {
     list-style-type: none;
 } 
+
+em {
+    font-style: normal;
+}
