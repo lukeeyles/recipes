@@ -1,0 +1,59 @@
+body {
+    background-color: #1e1e1e;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    color: #dadada;
+    padding-left: clamp(1rem, 5vw, 5rem);
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+div.sidebar {
+    width: 20%;
+    height: 100%;
+    background-color: #262626;
+    padding: 20px;
+    position: fixed;
+    list-style-type: none;
+    max-width: 200px;
+}
+
+div.content {
+    display: inline-block;
+    margin-left: 20%;
+    padding-left: 60px;
+}
+
+table.aligned {
+    border-spacing: 5px 2px;
+}
+
+/* align first column to the right */
+table.aligned td:nth-child(1) {
+    /* text-align: end;  */
+    /* width: 80px; */
+}
+
+a {
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: lightblue
+}
+
+ol, ul {
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+ul {
+    list-style-type: none;
+}
