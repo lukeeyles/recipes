@@ -5,6 +5,7 @@ body {
     font-style: normal;
     color: #dadada;
     padding-left: clamp(1rem, 5vw, 5rem);
+    padding-right: clamp(1rem, 5vw, 5rem);
 }
 
 hr {
