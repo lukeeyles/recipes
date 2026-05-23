@@ -7,8 +7,19 @@ body {
     padding-left: clamp(1rem, 5vw, 5rem);
 }
 
+hr {
+    color: #a6a6a6;
+    background-color: #a6a6a6;
+    height: 1px;
+    border: none;
+}
+
 h1 {
     font-weight: 700;
+}
+
+h4 {
+    margin-block-end: 0.5em;
 }
 
 p {
@@ -30,9 +41,9 @@ div.content {
     margin-left: 20%;
     padding-left: 60px;
 }
- 
-table.aligned {
-    border-spacing: 5px 2px;
+
+th, td {
+    padding-right: 30px;
 }
 
 /* align first column to the right */

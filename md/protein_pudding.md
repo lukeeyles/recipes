@@ -25,3 +25,22 @@ Adapted from [this recipe](https://chocolatecoveredkatie.com/healthy-chocolate-p
 6. Add in the chocolate if using, stir to melt and incorporate.
 7. Refrigerate until cold. Alternatively freeze and stir frequently to make ice cream.
 
+---
+
+### Nutrition Info
+
+#### With Chocolate
+| Servings: _4_ | Quantity per Serving |
+|-------------|----------------------|
+| Energy      | 1047 kJ              |
+| Protein     | 17.9 g               |
+| Carbs       | 21.6 g               |
+| Fat         | 10.2 g               |
+
+#### Without Chocolate
+| Servings: _4_ | Quantity per Serving |
+|-------------|----------------------|
+| Energy      | 777 kJ               |
+| Protein     | 17.1 g               |
+| Carbs       | 15.1 g               |
+| Fat         | 6.5 g                |
