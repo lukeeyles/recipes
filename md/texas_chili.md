@@ -5,7 +5,7 @@ date: 25/05/26
 
 ### Ingredients
 
-* _70_ g (1 pack) dried whole New Mexico (California), guajillo, or pasilla chiles (_6_ to _8_ chiles)
+* _70_ g (_1_ pack) dried whole New Mexico (California), guajillo, or pasilla chiles (_6_ to _8_ chiles)
 * _1 1/2_ tsp ground cumin
 * _1/2_ tsp ground black pepper
 * Kosher salt
