@@ -1,7 +1,7 @@
-title: Chili
+title: Texas Chili
 date: 25/05/26
 
-## Chili
+## Texas Chili
 
 ### Ingredients
 
