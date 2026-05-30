@@ -35,7 +35,7 @@ Based on [RecipeTinEats apple crumble](https://www.recipetineats.com/apple-crumb
 
 ### Nutrition Info
 
-## With _1_ cup sugar in the topping
+#### With _1_ cup sugar in the topping
 | Servings: _8_ | Quantity per Serving |
 |-------------|----------------------|
 | Energy      | 1534 kJ              |
@@ -43,7 +43,7 @@ Based on [RecipeTinEats apple crumble](https://www.recipetineats.com/apple-crumb
 | Carbs       | 54.1 g               |
 | Fat         | 13.9 g               |
 
-## With _1/2_ cup sugar in the topping
+#### With _1/2_ cup sugar in the topping
 | Servings: _8_ | Quantity per Serving |
 |-------------|----------------------|
 | Energy      | 1390 kJ              |
