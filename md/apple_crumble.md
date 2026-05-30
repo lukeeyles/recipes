@@ -17,7 +17,7 @@ Based on [RecipeTinEats apple crumble](https://www.recipetineats.com/apple-crumb
 #### Topping
 * _1_ cup rolled oats
 * _1_ cup flour
-* _1_ cup loosely packed brown sugar
+* _1_ cup loosely packed brown sugar (note: can reduce down to _1/2_ cup depending on sweetness preference)
 * _1/2_ tsp baking powder
 * _1_ tsp cinnamon
 * _1/2_ tsp nutmeg
@@ -30,3 +30,23 @@ Based on [RecipeTinEats apple crumble](https://www.recipetineats.com/apple-crumb
 3. **Apple filling**: Mix apple filling ingredients together and place in a pie dish. 
 4. **Crumble topping**: Mix crumble topping together and spread over the apples.
 5. **Bake** 40 minutes until golden brown. Rest for 10 minutes before serving.
+
+---
+
+### Nutrition Info
+
+## With _1_ cup sugar in the topping
+| Servings: _8_ | Quantity per Serving |
+|-------------|----------------------|
+| Energy      | 1534 kJ              |
+| Protein     | 3.7 g                |
+| Carbs       | 54.1 g               |
+| Fat         | 13.9 g               |
+
+## With _1/2_ cup sugar in the topping
+| Servings: _8_ | Quantity per Serving |
+|-------------|----------------------|
+| Energy      | 1390 kJ              |
+| Protein     | 3.7 g                |
+| Carbs       | 45.2 g               |
+| Fat         | 13.9 g               |
