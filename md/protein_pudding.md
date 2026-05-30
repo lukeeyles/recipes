@@ -15,15 +15,15 @@ Adapted from [this recipe](https://chocolatecoveredkatie.com/healthy-chocolate-p
 * _1_ tsp vanilla extract
 * _50_ g dark chocolate (optional)
 
-### Directions
+### Instructions
 
-1. Add the _2_ cups milk, cocoa powder, protein powder, and salt into a small pot.
-2. Turn on heat and stir to combine.
-3. Meanwhile, combine the _1/2_ cup milk with the _3_ tbsp cornstarch and whisk together. 
-4. When the _2_ cups milk are hot, add the _1/2_ cup milk and cornstarch mixture and bring to the boil.
-5. Stir for 2 mins while boiling, then reduce heat and stir for 1 more minute.
-6. Add in the chocolate if using, stir to melt and incorporate.
-7. Refrigerate until cold. Alternatively freeze and stir frequently to make ice cream.
+1. **Heat** the _2_ cups milk in a small saucepan.
+2. **Sift** in the cocoa powder and protein powder, and add the salt.
+3. **Cornstarch slurry**: Meanwhile, combine the _1/2_ cup milk with the _3_ tbsp cornstarch and whisk together. 
+4. **Boil**: When the _2_ cups milk are hot, add the cornstarch slurry and bring to the boil.
+5. **Stir** for 2 mins while boiling, then reduce heat and stir for 1 more minute.
+6. **Chocolate**: Add in the chocolate if using, stir to melt and incorporate.
+7. **Refrigerate** until cold. Alternatively freeze and stir frequently to make ice cream.
 
 ---
 

@@ -13,7 +13,6 @@ Based on [Downshiftology's recipe](https://downshiftology.com/recipes/best-chili
 * _4_ garlic cloves
 * _300_ g beef mince
 * _1_ cup chicken stock
-* _1_ tbsp tomato paste
 * _400_ g tomato can 
 * _400_ g black beans can
 * _1_ bay leaf
@@ -27,11 +26,10 @@ Based on [Downshiftology's recipe](https://downshiftology.com/recipes/best-chili
 * _1/2_ tsp salt
 * _1/4_ tsp chili
 
-### Directions
+### Instructions
 
-1. Cook onion
-2. Cook garlic
-3. Cook beef
-4. Add spices and toast a bit
-5. Add stock, canned tomato, tomato paste, beans, and bay leaf
-
+1. **Onion**: Cook onion in a frying pan until soft.
+2. **Garlic**: Add garlic and cook until fragrant.
+3. **Beef**: Add beef and brown.
+4. **Spices**: Add spices and toast a bit.
+5. **Simmer**: Add stock, canned tomato, beans, and bay leaf and simmer.

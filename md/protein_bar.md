@@ -11,7 +11,7 @@ date: 16/05/2026
 * _1/2_ cup milk
 * _2_ tbsp golden syrup
 
-### Directions
+### Instructions
 
 1. Combine all ingredients and refrigerate/freeze.
 
