@@ -4,8 +4,11 @@ body {
     font-family: "Inter", sans-serif;
     font-style: normal;
     color: #dadada;
-    padding-left: clamp(1rem, 5vw, 5rem);
-    padding-right: clamp(1rem, 5vw, 5rem);
+    max-width: 50rem;
+    width: 100%;
+    padding-inline: 1rem; 
+    box-sizing: border-box;
+    margin: auto;
 }
 
 hr {
