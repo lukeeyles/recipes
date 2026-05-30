@@ -11,6 +11,7 @@ Based on [RecipeTinEats apple crumble](https://www.recipetineats.com/apple-crumb
 * _1_ tbsp flour
 * _1/4_ cup white or brown sugar
 * _2_ tbsp lemon juice, or water plus _1/2_ tsp citric acid
+* Zest of _1_ lemon if using lemon juice
 * _1/2_ tsp cinnamon
 * _1/4_ tsp nutmeg
 
