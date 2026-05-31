@@ -1,8 +1,6 @@
 title: Apple Crumble
 date: 30/05/2026
 
-## Apple Crumble
-
 Based on [RecipeTinEats apple crumble](https://www.recipetineats.com/apple-crumble/).
 
 ### Ingredients

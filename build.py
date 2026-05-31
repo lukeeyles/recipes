@@ -4,6 +4,7 @@ import os
 md = markdown.Markdown(extensions=['markdown.extensions.tables','meta'])
 metadata = []
 links = []
+slider = "<input type='range' min='0' max='5' value='2' class='slider'><span class='multiplier'>1</span>x\n"
 
 # write recipe posts
 fns = os.listdir("md")
@@ -12,7 +13,8 @@ for fn in fns:
     link = "post/"+name+".html"
     with open(link,"w") as html_file, open("md/"+fn,"r") as md_file, open("template/recipe_header.html","r") as header_template, open("template/recipe_footer.html") as footer_template:
         html = md.convert(md_file.read())
-        html = header_template.read() + html + footer_template.read()
+        title = "<h2>"+md.Meta["title"][0]+"</h2>\n"
+        html = header_template.read() + title + slider + html + footer_template.read()
         html_file.write(html)
         md.Meta["url"] = [link]
         metadata.append(md.Meta)

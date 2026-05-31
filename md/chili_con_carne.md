@@ -1,8 +1,6 @@
 title: Chili Con Carne
 date: 16/05/2026
 
-## Chili Con Carne
-
 Based on [Downshiftology's recipe](https://downshiftology.com/recipes/best-chili-recipe/)
 
 ### Ingredients

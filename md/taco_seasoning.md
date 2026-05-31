@@ -1,7 +1,5 @@
-title: Taco Seasoning
+title: Old El Paso Taco Seasoning
 date: 25/05/26
-
-## Old El Paso Seasoning Dupes
 
 ### Crispy Chicken (but double the seasoning)
 * _72_ g breadcrumbs

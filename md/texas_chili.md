@@ -1,8 +1,6 @@
 title: Texas Chili
 date: 25/05/26
 
-## Texas Chili
-
 "True Texas Chili" recipe from Lobel's Meat Bible.
 
 ### Ingredients

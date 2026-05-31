@@ -1,8 +1,6 @@
 title: Protein Bars
 date: 16/05/2026
 
-## No Bake Protein Bars
-
 ### Ingredients
 
 * _2_ cups oats

@@ -1,8 +1,6 @@
 title: Chocolate Protein Pudding
 date: 16/05/2026
 
-## Chocolate Protein Pudding
-
 Adapted from [this recipe](https://chocolatecoveredkatie.com/healthy-chocolate-pudding-recipe/).
 
 ### Ingredients
